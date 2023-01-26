@@ -1,3 +1,5 @@
+<h3 align="left">Hello there 😃 </h3>
+
 * 🔭 I’m currently studying at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
 * 🌱 I’m currently learning **Telecommunications and Computer Engineering**
