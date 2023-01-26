@@ -10,6 +10,6 @@
 
 <h5 align="left">My stats:</h5>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoiria&" alt="joaoiria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoiria&theme=dark" alt="joaoiria" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoiria&label=Profile%20views&color=0e75b6&style=flat" alt="joaoiria" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoiria&label=Profile%20views&color=b80000&style=plastic" alt="joaoiria" /> </p>
