@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.gifer.com/3AyY.gif"  />
+  <img height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
 
 ###
@@ -24,11 +24,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi, my name is João Iria,<br><br>* 🔭 I’m currently studying at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)<br><br>* 🌱 I’m currently learning **Telecommunications and Computer Engineering**<br><br>* 📫 How to reach me **nubblackout@gmail.com**</p>
+Hi, my name is João Iria,
+* 🔭 I’m currently studying at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) <br><br>
+* 🌱 I’m currently learning **Telecommunications and Computer Engineering**<br><br>
+* 📫 How to reach me **nubblackout@gmail.com**
 
 ###
 
@@ -45,9 +44,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoIria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoIria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoIria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoIria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
