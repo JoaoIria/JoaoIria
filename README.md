@@ -1,17 +1,53 @@
-<h3 align="left">Hello there 😃 </h3>
+<h1 align="center">print("Welcome!")</h1>
 
-* 🔭 I’m currently studying at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+###
 
-* 🌱 I’m currently learning **Telecommunications and Computer Engineering**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoIria.JoaoIria&"  />
+</div>
 
-* 📫 How to reach me **nubblackout@gmail.com**
+###
 
+<div align="center">
+  <img height="150" src="https://i.gifer.com/3AyY.gif"  />
+</div>
 
-<h5 align="left">Languages and Tools that I use:</h5>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<h5 align="left">My stats:</h5>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"  />
+  <a href="joao.p.santos.iria@tecnico.ulisboa.pt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoiria&theme=dark" alt="joaoiria" /></p>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoiria&label=Profile%20views&color=b80000&style=plastic" alt="joaoiria" /> </p>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hi, my name is João Iria,<br><br>* 🔭 I’m currently studying at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)<br><br>* 🌱 I’m currently learning **Telecommunications and Computer Engineering**<br><br>* 📫 How to reach me **nubblackout@gmail.com**</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoIria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoIria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
